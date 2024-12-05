@@ -39,6 +39,14 @@
 ![image](https://github.com/user-attachments/assets/dc868f0d-5282-4889-8e2b-36c0edf1d12a)
 # I had a lot of fun making random names for the fish. I used a lot of real-life fish breeds I knew the names of due to my experience at a pet store where I had to learn a lot about fish breeds in order to help customers figure out what fish would be in their best interest to buy. I've had a lot of moments where I've handled many of the breeds I listed and I find all of them very fascinating, so it was fun to be able to reference them all in this project.
 
+![image](https://github.com/user-attachments/assets/5a9ca1d4-ede8-4be6-acdb-62b56e5e8810)
+# Another small project we worked on in class was a demo of a Map system. 
+## This was a more visual set up where we learned how to use colors and loops to demonstrate what location the player was at. 
+
+![image](https://github.com/user-attachments/assets/9957c87a-b363-4e43-86ed-8badbfa06563)
+# It was fun to learn how to make such an interesting system regarding the usage of text, colors, symbols, and loops to make a visually appealing map. The green majority of the map shown in the screenshot was correlated to a color being preset for a specific enviornment- in this case, a rainforest.
+
+
 
 
 
