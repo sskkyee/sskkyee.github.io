@@ -46,6 +46,15 @@
 ![image](https://github.com/user-attachments/assets/9957c87a-b363-4e43-86ed-8badbfa06563)
 # It was fun to learn how to make such an interesting system regarding the usage of text, colors, symbols, and loops to make a visually appealing map. The green majority of the map shown in the screenshot was correlated to a color being preset for a specific enviornment- in this case, a rainforest.
 
+![image](https://github.com/user-attachments/assets/73be1cb8-a318-464e-83b2-b2826bd7aa5e)
+# We also did a Substitution Cipher for class.
+## This cipher would encode and decode using a substitution cipher.
+![image](https://github.com/user-attachments/assets/157fb2d0-f034-414e-a023-41f677fd409f)
+![image](https://github.com/user-attachments/assets/16502dcb-c2b0-446d-b652-b914649adf5d)
+# I found it very interesting to see this be the code behind the application when we were writing it out in class. It was very cool to navigate writing encryotions.
+
+
+
 
 
 
