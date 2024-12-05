@@ -23,6 +23,21 @@
 ![image](https://github.com/user-attachments/assets/7613902c-5e8f-43c7-a5cf-0093050e7742) ![image](https://github.com/user-attachments/assets/ff5b3a02-0aeb-4251-a3db-ba87a2d6791a)
 ![image](https://github.com/user-attachments/assets/2556570c-9dfa-4246-84da-c1355646775a)
 
+# The nested loop shown in the title screen (being the <--> text-made "stairs" aka wad of gum the player initially falls through) took me a very long time to figure out how to display. I already knew how to produce working code that would create the nested loop from experience in a previous project, but that was a C# project- so trying to integrate it into WPF application was a challenge for me at first because I was initially unfamiliar with what kind of changes I would need to make to the code in order for its output to be displayed into a TextBlock. 
+
+![image](https://github.com/user-attachments/assets/c960bdce-aeed-41db-8a44-443165f4a6a7)
+
+# A project from this class was the Adopt A Fish game.
+## This was a project where we set up a system where the player could adopt various fish, name their fish, and go to a market to buy stuff for their fish.
+![image](https://github.com/user-attachments/assets/f4678c4d-b0ea-4ca4-b735-e4f1fa1d952e)
+![image](https://github.com/user-attachments/assets/fd636086-31f7-43ed-bff8-348628c61f71)
+![image](https://github.com/user-attachments/assets/000771f6-7619-4ef0-951e-a2722e9a01e0)
+
+![image](https://github.com/user-attachments/assets/d2c23f3e-9d6a-420d-a482-bfa0d90705dd)
+
+![image](https://github.com/user-attachments/assets/3b9209bc-a008-4988-8527-d2f4f1df84a6)
+![image](https://github.com/user-attachments/assets/dc868f0d-5282-4889-8e2b-36c0edf1d12a)
+# I had a lot of fun making random names for the fish. I used a lot of real-life fish breeds I knew the names of due to my experience at a pet store where I had to learn a lot about fish breeds in order to help customers figure out what fish would be in their best interest to buy. I've had a lot of moments where I've handled many of the breeds I listed and I find all of them very fascinating, so it was fun to be able to reference them all in this project.
 
 
 
