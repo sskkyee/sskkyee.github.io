@@ -23,7 +23,7 @@
 ![image](https://github.com/user-attachments/assets/7613902c-5e8f-43c7-a5cf-0093050e7742) ![image](https://github.com/user-attachments/assets/ff5b3a02-0aeb-4251-a3db-ba87a2d6791a)
 ![image](https://github.com/user-attachments/assets/2556570c-9dfa-4246-84da-c1355646775a)
 
-# The nested loop shown in the title screen (being the <--> text-made "stairs" aka wad of gum the player initially falls through) took me a very long time to figure out how to display. I already knew how to produce working code that would create the nested loop from experience in a previous project, but that was a C# project- so trying to integrate it into WPF application was a challenge for me at first because I was initially unfamiliar with what kind of changes I would need to make to the code in order for its output to be displayed into a TextBlock. 
+## The nested loop shown in the title screen (being the <--> text-made "stairs" aka wad of gum the player initially falls through) took me a very long time to figure out how to display. I already knew how to produce working code that would create the nested loop from experience in a previous project, but that was a C# project- so trying to integrate it into WPF application was a challenge for me at first because I was initially unfamiliar with what kind of changes I would need to make to the code in order for its output to be displayed into a TextBlock. 
 
 ![image](https://github.com/user-attachments/assets/c960bdce-aeed-41db-8a44-443165f4a6a7)
 
@@ -37,21 +37,21 @@
 
 ![image](https://github.com/user-attachments/assets/3b9209bc-a008-4988-8527-d2f4f1df84a6)
 ![image](https://github.com/user-attachments/assets/dc868f0d-5282-4889-8e2b-36c0edf1d12a)
-# I had a lot of fun making random names for the fish. I used a lot of real-life fish breeds I knew the names of due to my experience at a pet store where I had to learn a lot about fish breeds in order to help customers figure out what fish would be in their best interest to buy. I've had a lot of moments where I've handled many of the breeds I listed and I find all of them very fascinating, so it was fun to be able to reference them all in this project.
+## I had a lot of fun making random names for the fish. I used a lot of real-life fish breeds I knew the names of due to my experience at a pet store where I had to learn a lot about fish breeds in order to help customers figure out what fish would be in their best interest to buy. I've had a lot of moments where I've handled many of the breeds I listed and I find all of them very fascinating, so it was fun to be able to reference them all in this project.
 
 ![image](https://github.com/user-attachments/assets/5a9ca1d4-ede8-4be6-acdb-62b56e5e8810)
 # Another small project we worked on in class was a demo of a Map system. 
 ## This was a more visual set up where we learned how to use colors and loops to demonstrate what location the player was at. 
 
 ![image](https://github.com/user-attachments/assets/9957c87a-b363-4e43-86ed-8badbfa06563)
-# It was fun to learn how to make such an interesting system regarding the usage of text, colors, symbols, and loops to make a visually appealing map. The green majority of the map shown in the screenshot was correlated to a color being preset for a specific enviornment- in this case, a rainforest.
+## It was fun to learn how to make such an interesting system regarding the usage of text, colors, symbols, and loops to make a visually appealing map. The green majority of the map shown in the screenshot was correlated to a color being preset for a specific enviornment- in this case, a rainforest.
 
 ![image](https://github.com/user-attachments/assets/73be1cb8-a318-464e-83b2-b2826bd7aa5e)
 # We also did a Substitution Cipher for class.
 ## This cipher would encode and decode using a substitution cipher.
 ![image](https://github.com/user-attachments/assets/157fb2d0-f034-414e-a023-41f677fd409f)
 ![image](https://github.com/user-attachments/assets/16502dcb-c2b0-446d-b652-b914649adf5d)
-# I found it very interesting to see this be the code behind the application when we were writing it out in class. It was very cool to navigate writing encryotions.
+## I found it very interesting to see this be the code behind the application when we were writing it out in class. It was very cool to navigate writing encryotions.
 
 
 
