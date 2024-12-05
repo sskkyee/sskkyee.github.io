@@ -12,6 +12,26 @@
 ![image](https://github.com/user-attachments/assets/d35a22bd-c3c1-4da5-b1c9-595f4692e62e) ![image](https://github.com/user-attachments/assets/0b8f995b-b5c0-4466-81b3-2ce1b0747d1f)
 ## The ASCII art with the shrine of Mr. Whiskers was probably the most time consuming ASCII I did for this project. Instead of using one pre-made ASCII, I had to take bits and pieces from various ASCII art and space then all out and remake portions of them to get the candle placement just right and to get the correct size of the cat photo.
 
+![image](https://github.com/user-attachments/assets/9b71a3e0-a6f0-4a4a-9606-70e3d267798d)
+
+# This was my final called Bubblegum Mayhem.
+## Bubblegum Mayhem is a game centered around this storyline where you accidentally fall into this land that's made out of all these different kinds of gum. You explore various locations of this strange world centered around numerous gum brands. Once you've finished exploring the places that piqued your interest, you eventually find a ladder back to the surface and after you climb up it you find yourself back home in the normal world again.
+
+![image](https://github.com/user-attachments/assets/3372d53a-a7b2-4687-9b01-91d3f66d9e18)
+![image](https://github.com/user-attachments/assets/e0631c45-6144-46b2-b78e-3ecb64e4171d) ![image](https://github.com/user-attachments/assets/2146bf02-25e3-41c4-a60f-ddb4da529aa1)
+![image](https://github.com/user-attachments/assets/fc958b98-92f7-4deb-a6b1-22be65f01502) ![image](https://github.com/user-attachments/assets/3137afee-df6f-4540-8b3a-6ccf02674c96)
+![image](https://github.com/user-attachments/assets/3319950d-c585-43d7-9f9b-b7c65a11f662) ![image](https://github.com/user-attachments/assets/31b4e102-f9ea-4ae6-a8b5-9dcec7780773)
+![image](https://github.com/user-attachments/assets/7613902c-5e8f-43c7-a5cf-0093050e7742) ![image](https://github.com/user-attachments/assets/ff5b3a02-0aeb-4251-a3db-ba87a2d6791a)
+![image](https://github.com/user-attachments/assets/2556570c-9dfa-4246-84da-c1355646775a)
+
+
+
+
+
+
+
+
+
 
 
 
